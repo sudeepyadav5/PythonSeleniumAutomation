@@ -1,0 +1,48 @@
+16/04/23 10:13:49 AM Sunday - WebDriverClass - INFO : Chrome Driver is Initializing
+16/04/23 10:13:52 AM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.dezy.com/in
+16/04/23 10:13:52 AM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:13:52 AM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:14:38 AM Sunday - WebDriverClass - INFO : Chrome Driver is Initializing
+16/04/23 10:14:40 AM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.dezy.com/in
+16/04/23 10:14:40 AM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:14:41 AM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:18:25 AM Sunday - WebDriverClass - INFO : Chrome Driver is Initializing
+16/04/23 10:18:28 AM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.dezy.com/in
+16/04/23 10:18:28 AM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:18:28 AM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:21:51 AM Sunday - WebDriverClass - INFO : Chrome Driver is Initializing
+16/04/23 10:21:53 AM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.dezy.com/in
+16/04/23 10:21:53 AM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:21:53 AM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:24:48 AM Sunday - WebDriverClass - INFO : Chrome Driver is Initializing
+16/04/23 10:24:50 AM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.dezy.com/in
+16/04/23 10:24:50 AM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:24:50 AM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:26:10 AM Sunday - WebDriverClass - INFO : Chrome Driver is Initializing
+16/04/23 10:26:13 AM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.dezy.com/in
+16/04/23 10:26:13 AM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:26:13 AM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 10:26:15 AM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 10:26:15 AM Sunday - BaseClass - INFO : Scroll to WebElement with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 10:26:15 AM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 10:26:15 AM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 02:02:31 PM Sunday - WebDriverClass - INFO : Chrome Driver is Initializing
+16/04/23 02:02:34 PM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.dezy.com/in
+16/04/23 02:02:34 PM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 02:02:34 PM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 02:02:36 PM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 02:02:36 PM Sunday - BaseClass - INFO : Scroll to WebElement with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 02:02:36 PM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 02:02:36 PM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 02:25:38 PM Sunday - WebDriverClass - INFO : Chrome Driver is Initializing
+16/04/23 02:25:40 PM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.dezy.com/in
+16/04/23 02:25:40 PM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 02:25:40 PM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 02:27:58 PM Sunday - WebDriverClass - INFO : Chrome Driver is Initializing
+16/04/23 02:28:01 PM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.dezy.com/in
+16/04/23 02:28:01 PM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 02:28:01 PM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://div[@class='mx-4 text-white md:mx-6'][3]
+16/04/23 02:28:03 PM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 02:28:03 PM Sunday - BaseClass - INFO : Scroll to WebElement with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 02:28:03 PM Sunday - BaseClass - INFO : Element Found with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
+16/04/23 02:28:03 PM Sunday - BaseClass - INFO : Click on WebElement with Locator Type:xpath and with Locator Value ://*[@id="test-service-item-0"]/div/div/span/img
